@@ -1,0 +1,6 @@
+site_name: Auto DSLRBooth
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - Installation: install.md
+theme: readthedocs
