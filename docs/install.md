@@ -4,7 +4,7 @@
 * `Windows 10 2004 or Latest`
 * `WSL 2.0`
 * `Python 3.12 or Latest`
-* `Redis Server`
+* `Redis Broker`
 * `SQLite`
 * `Python Dependencies`
 
