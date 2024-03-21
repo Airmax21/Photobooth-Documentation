@@ -1,6 +1,8 @@
 # Installation DSLRBooth Automation
 
 ## Requirements
+* `Windows 10 1903 or Latest`
+* `WSL 2.0`
 * `Python 3.12 or Latest`
 * `Redis Server`
 * `SQLite`
